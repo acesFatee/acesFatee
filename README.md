@@ -4,22 +4,30 @@
 [![GitHub](https://img.shields.io/badge/GitHub-acesfatee-black)](https://github.com/acesfatee)
 [![Email](https://img.shields.io/badge/Email-harkaransohal@gmail.com-red)](mailto:harkaransohal@gmail.com)
 
-👋 I’m Harkaran, a Level 4 Computer Engineering Technology student at Algonquin College. I have solid foundations in web development and programming.
+👋 I’m Harkaran, a passionate full-stack developer studying Computer Engineering Technology at Algonquin College.
 
 ## 🛠️ Skills
-- **Web Dev:** HTML, CSS, JS, React, Next.js, PHP
-- **Programming:** Python, Java, C++, SQL, MongoDB
-- **Tools:** AWS, Linux, Git, VS Code
+### Web Development
+- 💻 HTML, CSS, JavaScript
+- ⚛️ React.js, Next.js
+- 💅 Bootstrap, Tailwind CSS
+- 🌐 PHP, Express.js
+
+### Programming and Databases
+- 🐍 Python
+- ☕ Java
+- 📄 C, C++
+- 🗃️ SQL, MySQL, MongoDB
+
+### Tools and Platforms
+- ☁️ Amazon Web Services (AWS)
+- 🐧 Linux
+- 🛠️ Git, GitHub
+- 🖥️ Visual Studio Code, Eclipse IDE
 
 ## 🌟 Projects
 - **[DollarFlow](https://www.dollarflow.app):** Expense tracking app.
 - **[Chat Bot Assistant](https://chat-bot-assistant-ten.vercel.app/):** Interactive chatbot.
 - **[News App](https://newsapp-sigma-ten.vercel.app/):** Next.js app with News API.
-
-## 🎓 Education
-- **Algonquin College** (Level 4), completing in Dec 2025.
-
-## 💼 Experience
-- **Freelance Developer:** Created catalog pages and admin panels using Next.js, Express.js, MongoDB.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=acesfatee)
